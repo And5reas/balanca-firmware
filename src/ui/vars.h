@@ -13,10 +13,13 @@ extern "C" {
 // Flow global variables
 
 enum FlowGlobalVariables {
-    FLOW_GLOBAL_VARIABLE_NONE
+    FLOW_GLOBAL_VARIABLE_DEVICE_IS_CONNECT = 0
 };
 
 // Native global variables
+
+extern bool get_var_device_is_connect();
+extern void set_var_device_is_connect(bool value);
 
 #ifdef __cplusplus
 }

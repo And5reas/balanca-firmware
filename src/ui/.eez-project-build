@@ -11,8 +11,21 @@
     "styles.h",
     "ui.c",
     "ui.h",
-    "ui_font_open_sans.c",
-    "ui_image_balanca.c",
+    "ui_font_open_sans_14.c",
+    "ui_font_open_sans_16.c",
+    "ui_font_open_sans_20.c",
+    "ui_font_open_sans_bold_16.c",
+    "ui_font_open_sans_bold_20.c",
+    "ui_font_open_sans_bold_24.c",
+    "ui_font_open_sans_semibold_16.c",
+    "ui_font_open_sans_semibold_20.c",
+    "ui_image_balanca_20.c",
+    "ui_image_lock_20.c",
+    "ui_image_refresh_20.c",
+    "ui_image_seta_back_20.c",
+    "ui_image_signal_20.c",
+    "ui_image_wifi_20.c",
+    "ui_image_wifi_28.c",
     "vars.h"
   ]
 }

@@ -7,7 +7,14 @@
 extern "C" {
 #endif
 
-extern const lv_font_t ui_font_open_sans;
+extern const lv_font_t ui_font_open_sans_14;
+extern const lv_font_t ui_font_open_sans_16;
+extern const lv_font_t ui_font_open_sans_bold_16;
+extern const lv_font_t ui_font_open_sans_semibold_16;
+extern const lv_font_t ui_font_open_sans_20;
+extern const lv_font_t ui_font_open_sans_bold_20;
+extern const lv_font_t ui_font_open_sans_semibold_20;
+extern const lv_font_t ui_font_open_sans_bold_24;
 
 #ifndef EXT_FONT_DESC_T
 #define EXT_FONT_DESC_T

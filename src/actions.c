@@ -1,5 +1,7 @@
 #include "ui/actions.h"
 #include "ui/ui.h"
+#include "stdbool.h"
+#include "components/wifi_item.h"
 
 void action_go_to_wifi_config_screen(lv_event_t *e) {
     // TODO: Implement action go_to_wifi_config_screen here
